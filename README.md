@@ -1,8 +1,8 @@
-# JavaScript fetch()
+# JavaScript so fetch()
 
 ## Overview
 
-We'll use  `fetch()` and describe the problems that it helps solve. 
+We'll use  `fetch()` and describe the problems that it helps solve.
 
 ## Objectives
 
